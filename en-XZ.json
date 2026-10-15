@@ -1,0 +1,20 @@
+{
+  "Dummy.general.back": "Dummy_Key_Back",
+  "Dummy.general.cancel": "Dummy_Key_Cancel",
+  "Dummy.general.confirm": "Dummy_Key_Are you sure?",
+  "Dummy.general.destroy": "Dummy_Key_Delete",
+  "Dummy.general.edit": "Dummy_Key_Edit",
+  "Dummy.general.new": "Dummy_Key_New",
+  "Dummy.hello": "Dummy_Key_Hello world",
+  "Dummy.layouts.application.about": "Dummy_Key_About",
+  "Dummy.layouts.application.account": "Dummy_Key_Account",
+  "Dummy.layouts.application.app_store": "Dummy_Key_App Store",
+  "Dummy.layouts.application.imprint": "Dummy_Key_Imprint",
+  "Dummy.layouts.application.logout": "Dummy_Key_Logout",
+  "Dummy.layouts.application.my_mails": "Dummy_Key_My Mails",
+  "Dummy.layouts.application.press": "Dummy_Key_Press",
+  "Dummy.layouts.application.preview": "Dummy_Key_Preview",
+  "Dummy.layouts.application.profile": "Dummy_Key_Profile",
+  "Dummy.layouts.application.sign_in": "Dummy_Key_Login",
+  "Dummy.layouts.application.sign_up": "Dummy_Key_Register"
+}
