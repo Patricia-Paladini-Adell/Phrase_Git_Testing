@@ -1,7 +1,6 @@
 phrase:
   access_token: 76e708740e06fb64d2311d862a54d81ef1fcff2e74a28a7ff899300128983115 #patricia.paladini+ikeadev@ingka.com
   project_id: 9eaa13c17ab7818b3fb3498f7b30698b #Project Name: Dummy - Git Connection
-  locale_mapping:
     
   push:
     sources:
