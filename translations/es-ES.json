@@ -1,0 +1,56 @@
+{
+  "Dummy.general.back": {
+    "message": "Dummy_Key_Back"
+  },
+  "Dummy.general.cancel": {
+    "message": "Dummy_Key_Cancel"
+  },
+  "Dummy.general.confirm": {
+    "message": "Dummy_Key_¿Estás seguro?"
+  },
+  "Dummy.general.destroy": {
+    "message": "Dummy_Key_Delete"
+  },
+  "Dummy.general.edit": {
+    "message": "Dummy_Key_Edit"
+  },
+  "Dummy.general.new": {
+    "message": "Dummy_Key_New"
+  },
+  "Dummy.hello": {
+    "message": "Dummy_Key_Hello mundo"
+  },
+  "Dummy.layouts.application.about": {
+    "message": "Dummy_Key_About"
+  },
+  "Dummy.layouts.application.account": {
+    "message": "Dummy_Key_Account"
+  },
+  "Dummy.layouts.application.app_store": {
+    "message": "Dummy_Key_App Store"
+  },
+  "Dummy.layouts.application.imprint": {
+    "message": "Dummy_Key_Imprint"
+  },
+  "Dummy.layouts.application.logout": {
+    "message": "Dummy_Key_Logout"
+  },
+  "Dummy.layouts.application.my_mails": {
+    "message": "Dummy_Key_Mis correos"
+  },
+  "Dummy.layouts.application.press": {
+    "message": "Dummy_Key_Press"
+  },
+  "Dummy.layouts.application.preview": {
+    "message": "Dummy_Key_Preview"
+  },
+  "Dummy.layouts.application.profile": {
+    "message": "Dummy_Key_Profile"
+  },
+  "Dummy.layouts.application.sign_in": {
+    "message": "Dummy_Key_Login"
+  },
+  "Dummy.layouts.application.sign_up": {
+    "message": "Dummy_Key_Register"
+  }
+}
