@@ -4,13 +4,13 @@ phrase:
     
   push:
     sources:
-    - file: <locale_code>.json
+    - file: <locale_name>.json
       params:
         file_format: json
         update_translations: true
   pull:
     targets:
-    - file: ./translations/<locale_code>.json
+    - file: ./translations/<locale_name>.json
       params:
         file_format: json
         update_translations: true
